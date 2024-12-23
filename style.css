@@ -1,0 +1,101 @@
+body{
+    background-image:url(images/restaurantlogos.jpg)  !important;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white !important;
+}#nav{
+    background-color: rgb(0, 0, 0) !important;
+
+}
+
+
+#navbarNav{
+    margin-left:650px !important;
+    a{
+        color: white;
+    }
+}
+#navbar1{
+    margin-left: 100px;
+    #restname{
+        color: rgb(255, 255, 255);
+        font-size: x-large;
+        font-weight: light;
+    }
+}
+#menu1{
+    margin-top: 500px;
+    margin-left: 450px;
+    font-size: 42px;
+    color: white;
+    text-decoration:  wavy underline;
+}
+#menu2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.menuitem{
+    text-align: center;
+}
+.container{
+   font-size:medium !important;
+   margin-top: 150px;
+   h1{
+    margin-left: 170px;
+    font-size: 70px;
+    padding: 30px;
+    font-weight: lighter;
+   }
+}
+#explore{
+    text-decoration: none;
+    font-size: xx-large;
+    margin-left: 400px;
+    margin-top: 500px !important;
+    color: aquamarine;
+}
+.menu{
+    margin-bottom: 100px;
+}
+.explorebot{
+    border: none;
+    border-radius: 50px;
+    font-weight: 100;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.explorebot:hover{
+    background-color: white;
+    color: rgb(10, 10, 136);
+}
+img{
+    
+}
+#img2{
+    height: 350px;
+    width: 350px
+}
+#img3{
+    height: 350px;
+    width: 350px;
+
+}
+#img1{
+    height: 350px;
+    width: 350px;
+}
+#about{
+    margin-left: 538px;
+    font-size: xxx-large;
+    margin-bottom: -100px;
+}
+#aboutus{
+     border-radius: 100px;
+}
+#contact{
+    margin-left: 312px;
+    margin-bottom: 60px;
+    font-size: xx-large;
+}
